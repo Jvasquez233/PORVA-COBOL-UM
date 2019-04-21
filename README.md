@@ -1,2 +1,2 @@
 # PORVA-COBOL-UM
-Proba cobol um
+Prova cobol um
